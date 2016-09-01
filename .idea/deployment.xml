@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="off@angsila" createEmptyFolders="true">
+    <serverData>
+      <paths name="nutthanon@cil">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/off/DeepLearning" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="off@angsila">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Python-Notebooks/DeepLearning" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

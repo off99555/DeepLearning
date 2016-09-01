@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5a72d249-1459-4db5-9ff9-fa7b7869b515" name="nutthanon@cil" url="http://cil.informatics.buu.ac.th">
+        <fileTransfer host="cil.informatics.buu.ac.th" port="22" rootFolder="/home/nutthanon" accessType="SFTP" password="dfe5dfc4dfc9dfcfdf8cdf9edfcbdfc6dfc6" username="nutthanon">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3a5d02b8-e7cb-43d2-af99-2a32ab4b387b" name="off@angsila" url="http://angsila.cs.buu.ac.th">
+        <fileTransfer host="angsila.cs.buu.ac.th" port="22" rootFolder="/export/b/y57/cs57d/57160041" accessType="SFTP" password="dfe9dfe2dff9dfe5df89df9fdf9ddf93df9b" username="57160041">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
